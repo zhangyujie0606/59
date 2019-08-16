@@ -7,7 +7,7 @@ keywords:
 
 license: MMMMMMM                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
-logo: https://zyj666.oss-cn-hangzhou.aliyuncs.com/timg.jpg
+logo: https://zyj666.oss-cn-hangzhou.aliyuncs.com/package.yaml
 source_file:
   - src/*.c
 
