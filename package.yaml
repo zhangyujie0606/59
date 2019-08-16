@@ -7,7 +7,7 @@ keywords:
 license: aaaaa                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
 logo: https://zyj666.oss-cn-hangzhou.aliyuncs.com/timg%20%281%29.jpg
-homepage: 
+homepage: aaa
 source_file:
   - src/*.c
 
